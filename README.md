@@ -1,0 +1,1 @@
+this is a very simple email verifier tool built in go, only built this for learning puroposes, not a structured application but the basic functionality works
